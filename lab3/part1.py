@@ -1,6 +1,7 @@
 import pygame
 from pygame.draw import *
 
+# рисование
 
 p = 3.14
 fps = 1
